@@ -13,7 +13,7 @@
     https://github.com/jawad453/brew-bean-email-triage-api
 -   **Live service URL:**
     `[Insert verified Render URL, or write "Not deployed"]`
--   **Demo video:** `[Insert tested demo URL, or write "Pending"]`
+-   **Demo video:** https://youtube.com/shorts/9OaERlyt0Y0?si=BaTvasmfPLRT5zqQ
 -   **Review date:** `[YYYY-MM-DD]`
 
 ## Deliverables checklist

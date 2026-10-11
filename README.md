@@ -251,7 +251,7 @@ pricing](https://developers.openai.com/api/docs/models/gpt-4o-mini) -
 
 ## Demo
 
-**Demo video:** `REPLACE_WITH_YOUR_UNLISTED_YOUTUBE_OR_PUBLIC_VIDEO_URL`
+**Demo video:** https://youtube.com/shorts/9OaERlyt0Y0?si=BaTvasmfPLRT5zqQ
 
 Record a short screen capture showing: 1. The live service or `/docs`
 page. 2. A successful `POST /triage` request with a valid token (do not
